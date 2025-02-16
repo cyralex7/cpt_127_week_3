@@ -21,9 +21,9 @@ finished_program = False
 
 # Count to 10 Program
 
-while finished_program == False:
+i = 0
 
-    i = 0
+while finished_program == False:
 
     print(f'Testing i = {i}')
 
